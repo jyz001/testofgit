@@ -1,2 +1,5 @@
 Stage one added.
 Two lines for stage two. Plus a new file.
+
+
+Test for git commit --amend
